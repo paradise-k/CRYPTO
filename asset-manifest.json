@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CRYPTO/static/css/main.0d5a4616.chunk.css",
+    "main.js": "/CRYPTO/static/js/main.dd26d454.chunk.js",
+    "main.js.map": "/CRYPTO/static/js/main.dd26d454.chunk.js.map",
+    "runtime-main.js": "/CRYPTO/static/js/runtime-main.072fbbc9.js",
+    "runtime-main.js.map": "/CRYPTO/static/js/runtime-main.072fbbc9.js.map",
+    "static/css/2.993549a4.chunk.css": "/CRYPTO/static/css/2.993549a4.chunk.css",
+    "static/js/2.ba3fc02b.chunk.js": "/CRYPTO/static/js/2.ba3fc02b.chunk.js",
+    "static/js/2.ba3fc02b.chunk.js.map": "/CRYPTO/static/js/2.ba3fc02b.chunk.js.map",
+    "index.html": "/CRYPTO/index.html",
+    "static/css/2.993549a4.chunk.css.map": "/CRYPTO/static/css/2.993549a4.chunk.css.map",
+    "static/css/main.0d5a4616.chunk.css.map": "/CRYPTO/static/css/main.0d5a4616.chunk.css.map",
+    "static/js/2.ba3fc02b.chunk.js.LICENSE.txt": "/CRYPTO/static/js/2.ba3fc02b.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/CRYPTO/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.072fbbc9.js",
+    "static/css/2.993549a4.chunk.css",
+    "static/js/2.ba3fc02b.chunk.js",
+    "static/css/main.0d5a4616.chunk.css",
+    "static/js/main.dd26d454.chunk.js"
+  ]
+}
